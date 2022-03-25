@@ -33,6 +33,7 @@ a {
     flex-direction: column;
     margin-left: auto;
     margin-right: auto;
+    flex: 1;
 }
 
 .header-top,
@@ -49,6 +50,8 @@ a {
 }
 
 .header-bottom {
+    margin-top: 29px;
+    margin-bottom: 29px;
     flex: 1;
     gap: 48px;
 }
