@@ -7,7 +7,7 @@ body {
 }
 
 ul {
-    color: #e5e7eb;
+    color: #E5E7EB;
     font-size: 18px;
     list-style-type: none;
     padding: 0px;
@@ -56,19 +56,19 @@ a {
     gap: 48px;
 }
 
-.header-text, 
+.header-info, 
 .header-image {
     height: 200px;
     width: 400px;
 }
 
-.title {
+.header-title {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
 }
 
-.text {
+.header-text {
     font-size: 18px;
 }
 
